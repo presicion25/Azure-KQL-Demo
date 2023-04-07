@@ -5,7 +5,7 @@
 <br />
 
 <h1>Azure Kusto Query Language (KQL) Demonstration</h1>
-In this tutorial demonstrate KQL language to query some security events in the log analytics workspace of my Azure environment.<br />
+In this lab I demonstrate KQL language to query some security events in the log analytics workspace of my Azure environment.<br />
 <br />
 <br />
 
