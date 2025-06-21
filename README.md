@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://imgur.com/aQpNKPX.png alt="Traffic Examination"/>  
-</p>
+
+![Azure KQL Demo](https://github.com/user-attachments/assets/b152cb88-bab7-46b8-ba3a-07fb67c19371)
+
 <br />
 <br />
 
